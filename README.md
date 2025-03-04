@@ -2,7 +2,7 @@
 
 <p>This is a chess game implementation written in PHP.</p>
 
-<p>Demo: <a href="https://php.chess.craigsdevzone.com">https://php.chess.craigsdevzone.com/</a></p>
+<p>Demo: <a href="https://php.chess.craigsdevzone.com" target="_blank">https://php.chess.craigsdevzone.com/</a></p>
 
 <img width="1250" alt="image" src="https://github.com/user-attachments/assets/0a6f88a9-0feb-4691-94e9-cea7d2801ae9" />
 
